@@ -1,0 +1,4 @@
+Recipe Controllers pe sirf callback dalenge
+routes pe routes bana rahe hai. get req post req k liye. but in req ka callback controllers pe likh rahe hai
+app.js pe sab kuch import kar rahe hai and set kar rahe hai. routes v import kar rahe hai. complexity kam rahe to hi behetar hai
+main.ejs pe ek template banake rakha hai. baki jo vi ejs k pages banenge wo use template ko use karenge + apna content v dalenge.
